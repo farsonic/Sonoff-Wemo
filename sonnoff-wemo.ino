@@ -68,8 +68,8 @@ void startHttpServer();
 void turnOnRelay();
 void turnOffRelay();
 
-const char* ssid = "wifi1";
-const char* password = "MicrosoftSeeksDominationOfSociety";
+const char* ssid = "ssid";
+const char* password = "password";
 
 unsigned int localPort = 1900;      // local port to listen on
 
